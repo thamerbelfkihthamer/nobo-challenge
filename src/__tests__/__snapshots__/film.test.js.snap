@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search has a valid snapshot 1`] = `
+<main
+  className="MuiContainer-root MuiContainer-maxWidthXs"
+  style={
+    Object {
+      "marginBottom": 100,
+      "marginTop": 100,
+    }
+  }
+>
+  <img
+    alt="fd"
+    src="giphy.gif"
+  />
+</main>
+`;
